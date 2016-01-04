@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[dovetonfletcher]]></title>
         <description><![CDATA[dovetonfletcher]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dovetonfletcher/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 04:54:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Jan 2016 06:26:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dovetonfletcher/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/06edd5c6-d192-45ea-8c94-b266e8bfac70.JPG" alt="" title="">]]></description>
-            <link>undefined749e32bc-61b3-47a9-ae99-19ec9020cb62/index.html</link>
+            <title><![CDATA[Hargraves 210 Carbon]]></title>
+            <description><![CDATA[<article><h1>Hargraves 210 Carbon</h1><p>210mm Chef's Knife 1095 Carbon Steel</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/596862e14def40cb20a97a99ce04de0e3110e513.jpg"></article>]]></description>
+            <link>https://thegrid.ai/dovetonfletcher/749e32bc-61b3-47a9-ae99-19ec9020cb62/index.html</link>
             <guid isPermaLink="false">749e32bc-61b3-47a9-ae99-19ec9020cb62</guid>
-            <pubDate>Mon, 04 Jan 2016 04:54:12 GMT</pubDate>
+            <pubDate>Mon, 04 Jan 2016 06:26:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
